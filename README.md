@@ -4,11 +4,11 @@
 # Academic background
 <p>
   
-|     End Date  |              Course                 | College/School                     |  Location                     |
-| ------------- |-------------------------------------| -----------------------------------| ------------------------------|
-| 2014          | Bachelors in Chemical Engineering   | B M S College of Engineering       |    Bengaluru, India           |
-| 2018          | Masters in Chemical Engineering     | R V College of Engineering         |    Bengaluru, India           |
-| 2022          | Masters in Business Analytics       | Hult International Business School |    Boston, United States      |
+|Graduation Year  |              Course                 | College/School                     |  Place of Education           |
+|-----------------|-------------------------------------|------------------------------------|-------------------------------|
+| 2014            | Bachelors in Chemical Engineering   | B M S College of Engineering       |    Bengaluru, India           |
+| 2018            | Masters in Chemical Engineering     | R V College of Engineering         |    Bengaluru, India           |
+| 2022            | Masters in Business Analytics       | Hult International Business School |    Boston, United States      |
 
 <br>
 - I am from Bengaluru, India, where I have completed a Masters 
