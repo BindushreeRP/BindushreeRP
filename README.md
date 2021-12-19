@@ -24,14 +24,15 @@ Unsupervised and Supervised Learning techniques.
 - I’m looking to collaborate with organizations and teams that are looking to organise and optimize their platforms, 
 help with project management with Data Science or technological roles within O365.
 <br>
-- You can reach me on my personal email at bindushreerp2@gmail.com 
 
-[<img  src="logos\linkedin-icon.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
-&nbsp;
-[<img  src="logos\instagram-icon.png" width="48" height="48"   style="background-color:white;">][instagram]
-   
-[instagram]: https://www.instagram.com/bustlingwomantales/
-[linkedin]: https://www.linkedin.com/in/bindushree-rp/
+# I am reachable on email at bindushreerp2@gmail.com or connect with me on one of the below social media platforms.
+<p>
+  [<img  src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"  width="48"  height="48"  style="background-color:white;">][linkedin]
+  &nbsp;
+  [<img  src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Instagram_logo.svg" width="48" height="48"   style="background-color:white;">][instagram]
+  
+[instagram]:  https://www.instagram.com/bustlingwomantales/
+[linkedin]:   https://www.linkedin.com/in/bindushree-rp/
 
 <!---
 BindushreeRP/BindushreeRP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
