@@ -25,7 +25,7 @@ been able to learn and work on Python, Machine Learning, Data Analytics, Data Vi
 Unsupervised and Supervised Learning techniques.
 <br>
 - I’m looking to collaborate with organizations and teams that are looking to organise and optimize their platforms, 
-help with project management with Data Science or technological roles within O365.
+help with project management, Data Science or technological roles within the organization.
 <br>
   
 # I am reachable on the below platforms:
