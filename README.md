@@ -13,7 +13,7 @@
 <br>
 - I am from Bengaluru, India, where I have completed a Masters 
   Degree in Chemical Engineering and worked with IT majors like Capgemini and Accenture for about 4.5 years 
-  before moving to Boston, US. :nerd_face: I have immense knowledge and experience with O365 Collaboration Services and 
+  before moving to Boston, US. :woman_office_worker: I have immense knowledge and experience with O365 Collaboration Services and 
   have contributed in various deployments of projects and implementation of new services at organization level
   in my previous roles.
 <br>
